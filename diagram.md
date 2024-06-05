@@ -10,3 +10,4 @@ Q----+---+       +---Q
      |            NAND|
      +---------------+
                 C
+Add NAND latch diagram
